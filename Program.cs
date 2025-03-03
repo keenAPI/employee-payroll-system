@@ -44,7 +44,7 @@
                         break;
 
                     case "4":
-                        Console.WriteLine("Exiting...");
+                        Console.WriteLine("Thank you for using my Employee Payroll System...");
                         return;
 
                     default:
